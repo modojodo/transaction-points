@@ -1,0 +1,55 @@
+{
+"transactions" : [
+  {
+    "name": "John Oliver",
+    "data": [
+      {
+        "month": "June",
+        "amounts": [240, 300, 20]
+      },
+      {
+        "month": "July",
+        "amounts": [89, 23, 3, 98]
+      },
+      {
+        "month": "August",
+        "amounts": [12, 40, 31]
+      }
+    ]
+  },
+  {
+    "name": "Will Hammer",
+    "data": [
+      {
+        "month": "June",
+        "amounts": [234, 679, 890]
+      },
+      {
+        "month": "July",
+        "amounts": [43, 75, 43, 32]
+      },
+      {
+        "month": "August",
+        "amounts": [343, 345, 232, 2, 35]
+      }
+    ]
+  },
+  {
+    "name": "Hannah Montana",
+    "data": [
+      {
+        "month": "June",
+        "amounts": [980, 34, 90]
+      },
+      {
+        "month": "July",
+        "amounts": [637, 245, 3, 21]
+      },
+      {
+        "month": "August",
+        "amounts": [1782, 345, 232]
+      }
+    ]
+  }
+]
+}
